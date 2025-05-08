@@ -1,1 +1,26 @@
-# fMRI-BlindSpots
+fMRI-BlindSpots
+🧠 fMRI Blind Spots: Finding Brain Regions That Stay Silent
+🧠 fMRI Blind Spots: Finding Brain Regions That Stay Silent
+
+This project explores "blind spots" in the brain — regions that do *not* activate across both motor and language tasks. Using open-access fMRI datasets and Nilearn, we visualize areas of the brain that remain consistently inactive, which could hint at specialized or underexplored regions.
+
+📊 What This Notebook Does
+- Loads motor and language fMRI activation maps
+- Identifies regions with zero activation in both tasks
+- Visualizes the "silent" areas as brain blind spots
+
+🚀 How to Run
+1. Open the notebook on [Google Colab](https://colab.research.google.com/).
+2. Run all cells — no setup needed!
+3. See the brain maps with highlighted blind spots.
+
+🛠 Built With
+- [Python](https://www.python.org/)
+- [Nilearn](https://nilearn.github.io/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+
+💡 Inspiration
+Inspired by cognitive neuroscience questions on whether certain brain regions remain underactivated across tasks — potentially specialized for yet-unknown functions!
+
+
